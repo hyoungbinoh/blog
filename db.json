@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "title": "sdf",
+      "body": "sdf",
+      "publish": false,
+      "createdAt": 1674737676395,
+      "id": 1
+    },
+    {
+      "title": "sdf",
+      "body": "sdf",
+      "publish": true,
+      "createdAt": 1674737678331,
+      "id": 2
+    },
+    {
+      "title": "리액트 라우트 업그레이드",
+      "body": "이하동문",
+      "publish": false,
+      "createdAt": 1674987466938,
+      "id": 3
+    }
+  ]
+}
